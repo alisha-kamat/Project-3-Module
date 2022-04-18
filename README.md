@@ -24,3 +24,7 @@ A module which tracks the textfield character count.
     └── mod_metacharactercounter.xml
 
 ## Process Flowchart
+<img src="https://github.com/alisha-kamat/Project-3-Module/blob/869c267319c2faebddcf0b4e99ba95b20ea70e4b/images/flowchart.png" width=60% height=60%>
+
+## Demonstration
+<img src="https://github.com/alisha-kamat/Project-3-Module/blob/869c267319c2faebddcf0b4e99ba95b20ea70e4b/images/Joomla%20Demo%20Module.gif">
