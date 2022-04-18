@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension type="module" version="4.0" client="site" method="upgrade">
+	<name>Meta Character Counter</name>
+	<author>Alisha Kamat</author>
+	<creationDate>April 2022</creationDate>
+	<authorEmail>alishakamat8@gmail.com</authorEmail>
+	<authorUrl>https://github.com/alisha-kamat</authorUrl>
+	<description>MOD_DESC</description>
+	<files>
+		<filename module="mod_metacharactercounter">mod_metacharactercounter.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">language/en-GB.mod_metacharactercounter.ini</language>
+	</languages>
+</extension>
